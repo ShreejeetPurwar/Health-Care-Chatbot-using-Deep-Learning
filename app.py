@@ -120,9 +120,10 @@ def append():
 
     print(active_symptoms)
 
-    if(len(active_symptoms)>3):
+    if(len(active_symptoms)>=3):
         vector, dictionary = get_active_symptoms()
         res = diagnosis(vector,dictionary)
+        active_symptoms.clear()
         return res
     
     # res = []
@@ -166,4 +167,4 @@ def get_bot_response():
     return "System"
 
 if __name__ == '__main__':
-    app.run(debug=True, port=8001)
+    app.run(debug=True, port=8002)
