@@ -1,14 +1,18 @@
 <h1>Welcome to our project!!</h1>
-<style>
-hr{
-    border: none;
-    border-top: dotted;
-    border-color: #384b4b;
-    border-width: 5px;
-    width: 5%;
-    margin: 70px auto 70px auto; 
-}
-</style>
+<foreignObject width="100%" height="100%">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+            <style>
+            hr{
+                border: none;
+                border-top: dotted;
+                border-color: #384b4b;
+                border-width: 5px;
+                width: 5%;
+                margin: 70px auto 70px auto; 
+            }
+            </style>
+        </div>
+    </foreignObject>
 <hr>
 <h3>Problem Statement</h3>
 <p>Developing an AI-based personalised health monitoring system that can adapt to individual health conditions and provide personalised health recommendations.</p?
