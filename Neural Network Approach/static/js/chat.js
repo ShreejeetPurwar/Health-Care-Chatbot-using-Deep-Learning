@@ -64,10 +64,7 @@ input.addEventListener("input",function() {
   
 });
 
-
-
 // above it implementing live search 
-
 
 
 // below this is bot working code that connects backend by calling api 
@@ -93,7 +90,6 @@ function botResponse(rawText) {
     console.log(data);
     const msgText = data;
     appendMessage(BOT_NAME, BOT_IMG, "left", msgText);
-
   });
 
 }

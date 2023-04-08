@@ -13,6 +13,7 @@ df = pd.read_csv('dataset.csv')
 
 data = []
 active_symptoms = []
+pre = []
 
 
 def get_data():
@@ -153,6 +154,10 @@ def home():
 @app.route('/chat')
 def index():
     return render_template('chat.html')
+
+@app.route('/pre')
+def pre():
+    return "pre"
 
 
 display_symptoms = []
