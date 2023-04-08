@@ -44,7 +44,7 @@ input.addEventListener("input",function() {
             
           }
           else{
-            var txt = '';
+            var txt = 'There is a chance that you have ';
             $.each(data, function(index, item) {
                 txt += item.name + '  ';
               });
