@@ -1,0 +1,186 @@
+{
+  "intents": [
+    {
+      "tag": "pneumonia_symptoms",
+      "patterns": [
+        "What are the symptoms of pneumonia?",
+        "How do I know if I have pneumonia?",
+        "Can you list the common symptoms of pneumonia?"
+      ],
+      "responses": [
+        "The symptoms of pneumonia can vary depending on the type of pneumonia and the age and health of the person affected.",
+        "Common symptoms include coughing, fever, chest pain, shortness of breath, fatigue, and chills.",
+        "If you experience any of these symptoms, it's important to see a doctor for a proper diagnosis and treatment."
+      ]
+    },
+    {
+      "tag": "pneumonia_treatment",
+      "patterns": [
+        "How is pneumonia treated?",
+        "What are the treatments for pneumonia?",
+        "Can pneumonia be cured?"
+      ],
+      "responses": [
+        "The treatment for pneumonia depends on the type and severity of the infection.",
+        "Common treatments include antibiotics, antiviral medication, and supportive care such as oxygen therapy and hydration.",
+        "Most people with pneumonia can be successfully treated, but in severe cases, hospitalization may be necessary."
+      ]
+    },
+    {
+      "tag": "pneumonia_prevention",
+      "patterns": [
+        "How can I prevent pneumonia?",
+        "What can I do to reduce my risk of getting pneumonia?",
+        "Is there a vaccine for pneumonia?"
+      ],
+      "responses": [
+        "There are several steps you can take to reduce your risk of getting pneumonia, including getting vaccinated, washing your hands frequently, avoiding close contact with sick people, and not smoking.",
+        "There are vaccines available for certain types of pneumonia, including the pneumococcal vaccine and the flu vaccine.",
+        "Talk to your doctor about what steps you can take to prevent pneumonia and whether you should get vaccinated."
+      ]
+    },
+    {
+      "tag": "pneumonia_types",
+      "patterns": [
+        "What are the different types of pneumonia?",
+        "Can you explain the types of pneumonia?",
+        "How many types of pneumonia are there?"
+      ],
+      "responses": [
+        "There are several types of pneumonia, including bacterial pneumonia, viral pneumonia, and fungal pneumonia.",
+        "Bacterial pneumonia is the most common type and is typically treated with antibiotics.",
+        "Viral pneumonia can be caused by several different viruses and is often treated with antiviral medication."
+      ]
+    },
+    {
+      "tag": "pneumonia_risk",
+      "patterns": [
+        "Who is at risk for pneumonia?",
+        "What are the risk factors for pneumonia?",
+        "Can certain groups of people be more susceptible to pneumonia?"
+      ],
+      "responses": [
+        "Anyone can get pneumonia, but some groups of people are more susceptible than others.",
+        "The elderly, young children, people with weakened immune systems, and smokers are at a higher risk for developing pneumonia.",
+        "It's important for people in these groups to take extra precautions to prevent pneumonia and seek medical attention if they develop symptoms."
+      ]
+    },
+    {
+      "tag": "pneumonia_complications",
+      "patterns": [
+        "What are the complications of pneumonia?",
+        "Can pneumonia lead to other health problems?",
+        "How serious is pneumonia?"
+      ],
+      "responses": [
+        "Pneumonia can be a serious condition, especially in people with weakened immune systems or underlying health conditions.",
+        "Complications can include respiratory failure, sepsis, and lung abscesses.",
+        "It's important to seek medical attention if you suspect you have pneumonia to reduce the risk of complications."
+      ]
+    },
+    {
+      "tag": "pneumonia_diagnosis",
+      "patterns": [
+        "How is pneumonia diagnosed?",
+        "What tests are used to diagnose pneumonia?",
+        "What should I expect during a pneumonia diagnosis?"
+      ],
+      "responses": [
+        "A doctor may diagnose pneumonia based on your symptoms and a physical exam.",
+        "Diagnostic tests such as a chest X-ray, blood tests, and sputum culture may also be used to confirm the diagnosis.",
+        "Your doctor may recommend treatment such as antibiotics or antiviral medication depending on the type of pneumonia you have."
+      ]
+    },
+    {
+      "tag": "pneumonia_rehabilitation",
+      "patterns": [
+        "How long does it take to recover from pneumonia?",
+        "What is the rehabilitation process after pneumonia?",
+        "Can I resume normal activities after having pneumonia?"
+      ],
+      "responses": [
+        "The length of time it takes to recover from pneumonia can vary depending on the severity of the infection and the age and health of the person affected.",
+        "After treatment, your doctor may recommend a rehabilitation plan that includes breathing exercises, physical therapy, and rest.",
+        "It's important to follow your doctor's recommendations and gradually resume normal activities as you recover."
+      ]
+    },
+    {
+      "tag": "pneumonia_in_children",
+      "patterns": [
+        "Can children get pneumonia?",
+        "What are the symptoms of pneumonia in children?",
+        "How is pneumonia treated in children?"
+      ],
+      "responses": [
+        "Yes, children can get pneumonia, and it can be especially serious in infants and young children.",
+        "Symptoms of pneumonia in children can include fever, cough, rapid breathing, and chest pain.",
+        "Treatment for pneumonia in children may include antibiotics, antiviral medication, and supportive care such as oxygen therapy and hydration."
+      ]
+    },
+    {
+      "tag": "pneumonia_prevention",
+      "patterns": [
+        "How can I prevent pneumonia?",
+        "What are some ways to reduce the risk of pneumonia?",
+        "Is there a vaccine for pneumonia?"
+      ],
+      "responses": [
+        "Washing your hands regularly, avoiding close contact with sick people, and not smoking can all help reduce the risk of pneumonia.",
+        "There are also vaccines available that can help prevent certain types of pneumonia, such as the pneumococcal vaccine and the flu vaccine.",
+        "Talk to your doctor to determine which vaccines are recommended for you."
+      ]
+    },
+    {
+      "tag": "pneumonia_spread",
+      "patterns": [
+        "How is pneumonia spread?",
+        "Can pneumonia be contagious?",
+        "What precautions should I take if someone I know has pneumonia?"
+      ],
+      "responses": [
+        "Pneumonia can be spread through coughing, sneezing, and close contact with an infected person.",
+        "Some types of pneumonia are contagious, while others are not.",
+        "If someone you know has pneumonia, encourage them to seek medical treatment and avoid close contact with them until they are no longer contagious."
+      ]
+    },
+    {
+      "tag": "pneumonia_symptoms",
+      "patterns": [
+        "What are the symptoms of pneumonia?",
+        "How do I know if I have pneumonia?",
+        "What should I do if I think I have pneumonia?"
+      ],
+      "responses": [
+        "Symptoms of pneumonia can include fever, cough, chest pain, shortness of breath, and fatigue.",
+        "If you suspect you have pneumonia, it's important to seek medical attention as soon as possible to receive a proper diagnosis and treatment.",
+        "Your doctor may recommend antibiotics or antiviral medication depending on the type of pneumonia you have."
+      ]
+    },
+    {
+      "tag": "pneumonia_complications2",
+      "patterns": [
+        "Are there any long-term complications of pneumonia?",
+        "Can pneumonia cause permanent damage to the lungs?",
+        "What should I do if I experience complications after pneumonia?"
+      ],
+      "responses": [
+        "While most people recover fully from pneumonia with proper treatment, some people may experience long-term complications such as lung damage or chronic respiratory problems.",
+        "If you experience complications after pneumonia, it's important to seek medical attention and follow your doctor's recommendations for treatment.",
+        "Your doctor may recommend follow-up testing to monitor your lung function and ensure that you are recovering properly."
+      ]
+    },
+    {
+      "tag": "pneumonia_treatment",
+      "patterns": [
+        "What is the treatment for pneumonia?",
+        "How is pneumonia treated?",
+        "Can pneumonia be cured?"
+      ],
+      "responses": [
+        "Treatment for pneumonia may include antibiotics, antiviral medication, and supportive care such as oxygen therapy and hydration.",
+        "It's important to take all prescribed medication and follow your doctor's recommendations for rest and recovery.",
+        "Most people recover fully from pneumonia with proper treatment, but it may take several weeks or months to fully recover."
+      ]
+    }
+  ]
+}
