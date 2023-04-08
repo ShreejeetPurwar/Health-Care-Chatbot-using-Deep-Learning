@@ -6,8 +6,8 @@
 <h3>Proposed Solution</h3>
 <p>We will develop an AI-based personalised system that can adapt to individual health conditions and provide personalised health recommendations. The system will be able to converse with users. It will use machine learning algorithms to identify patterns, trends, and anomalies in chat, and provide personalised health recommendations to the user. The goal is to provide an efficient and effective health monitoring system that can help individuals improve their health and wellness.</p>
 <hr>
-![bro](https://ibb.co/G7SXCFG)
-![bro](https://ibb.co/4t5LQ2X)
+<!-- ![bro](https://ibb.co/G7SXCFG)
+![bro](https://ibb.co/4t5LQ2X) -->
 
 <!-- <foreignObject width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml">
