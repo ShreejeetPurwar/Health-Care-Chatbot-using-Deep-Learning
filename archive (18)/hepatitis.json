@@ -1,0 +1,70 @@
+{
+   "intents": [
+     {
+       "name": "Hepatitis A",
+       "patterns": [
+         "What is hepatitis A?",
+         "How is hepatitis A spread?",
+         "What are the symptoms of hepatitis A?",
+         "Is there a vaccine for hepatitis A?",
+         "How is hepatitis A diagnosed?",
+         "What are the treatments for hepatitis A?",
+         "How long does it take to recover from hepatitis A?"
+       ],
+       "responses": [
+         "Hepatitis A is a liver infection caused by the hepatitis A virus.",
+         "Hepatitis A is usually spread through contaminated food or water.",
+         "Symptoms of hepatitis A can include fatigue, fever, abdominal pain, and jaundice.",
+         "Yes, there is a vaccine for hepatitis A.",
+         "Hepatitis A can be diagnosed through blood tests.",
+         "There is no specific treatment for hepatitis A, but most people recover on their own within a few weeks to months.",
+         "Most people with hepatitis A recover completely within a few months."
+       ]
+     },
+     {
+       "name": "Hepatitis B",
+       "patterns": [
+         "What is hepatitis B?",
+         "How is hepatitis B spread?",
+         "What are the symptoms of hepatitis B?",
+         "Is there a vaccine for hepatitis B?",
+         "How is hepatitis B diagnosed?",
+         "What are the treatments for hepatitis B?",
+         "Can hepatitis B be cured?"
+       ],
+       "responses": [
+         "Hepatitis B is a liver infection caused by the hepatitis B virus.",
+         "Hepatitis B is usually spread through contact with infected blood or bodily fluids.",
+         "Symptoms of hepatitis B can include fever, fatigue, abdominal pain, and jaundice.",
+         "Yes, there is a vaccine for hepatitis B.",
+         "Hepatitis B can be diagnosed through blood tests.",
+         "There is no cure for hepatitis B, but antiviral medications can help manage the infection.",
+         "With proper medical care, most people with hepatitis B can manage the infection and live a healthy life."
+       ]
+     },
+     {
+       "name": "Hepatitis C",
+       "patterns": [
+         "What is hepatitis C?",
+         "How is hepatitis C spread?",
+         "What are the symptoms of hepatitis C?",
+         "Is there a cure for hepatitis C?",
+         "How is hepatitis C diagnosed?",
+         "What are the treatments for hepatitis C?",
+         "Can hepatitis C be prevented?"
+       ],
+       "responses": [
+         "Hepatitis C is a liver infection caused by the hepatitis C virus.",
+         "Hepatitis C is usually spread through contact with infected blood.",
+         "Many people with hepatitis C have no symptoms, but some may experience fatigue, joint pain, or other symptoms.",
+         "There is no cure for hepatitis C, but antiviral medications can help manage the infection.",
+         "Hepatitis C can be diagnosed through blood tests.",
+         "Treatment for hepatitis C may involve a combination of medications and lifestyle changes.",
+         "There is no vaccine to prevent hepatitis C, but you can reduce your risk of infection by avoiding risky behaviors such as sharing needles or having unprotected sex."
+       ]
+     }
+   ]
+ }
+ 
+ 
+ 
