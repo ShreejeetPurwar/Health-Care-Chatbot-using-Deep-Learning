@@ -1,0 +1,72 @@
+{
+  "intents": [
+    {
+      "tag": "What is Leukemia",
+      "patterns": ["What is leukemia", "What is Leukemia"],
+      "responses": [
+        "Leukemia is a type of cancer that affects the blood and bone marrow. It is caused due to an abnormal growth of white blood cells."
+      ]
+    },
+    {
+      "tag": "Symptoms of Leukemia",
+      "patterns": [
+        "What are the symptoms of Leukemia",
+        "What symptoms of leukemia"
+      ],
+      "responses": [
+        "The common symptoms of Leukemia include: Fatigue, Fever, Bleeding, Weight loss, Bone pain, Swollen lymph nodes."
+      ]
+    },
+    {
+      "tag": "Causes of Leukemia",
+      "patterns": ["What causes Leukemia?", "What causes leukemia"],
+      "responses": [
+        "Leukemia is caused by genetic mutations that occur in the bone marrow. It can be due to exposure to radiation, smoking, or certain chemicals."
+      ]
+    },
+
+    {
+      "tag": "what_leukemia",
+      "patterns": ["What is leukemia?", "What is it?", "What is this disease?"],
+      "responses": [
+        "Leukemia is a type of cancer that affects the blood and bone marrow. It is caused by the abnormal production of white blood cells, which can spread to other parts of the body and interfere with normal blood cell production."
+      ]
+    },
+    {
+      "tag": "symptoms_leukemia",
+      "patterns": [
+        "What are the symptoms of leukemia?",
+        "What are the signs of leukemia?",
+        "What are the early signs of leukemia?"
+      ],
+      "responses": [
+        "The early symptoms of leukemia include fatigue, pale skin, shortness of breath, frequent infections, easy bruising or bleeding, and swollen lymph nodes or spleen."
+      ]
+    },
+
+    {
+      "tag": "Leukemia Symptoms",
+      "patterns": [
+        "What are the symptoms of leukemia?",
+        "What are the signs of leukemia?",
+        "What symptoms should I look for in leukemia?"
+      ],
+      "responses": [
+        "The most common symptoms of leukemia are feeling tired all the time, frequent infections, easy bleeding or bruising, swollen lymph nodes, fever, night sweats, and bone and joint pain.",
+        "The most common signs and symptoms of leukemia include fever, fatigue, excessive sweating, loss of appetite, weight loss, and pale skin. Other signs and symptoms may include joint and bone pain, enlarged lymph nodes, a swollen spleen, and easy bruising or bleeding."
+      ]
+    },
+    {
+      "tag": "Leukemia Treatment",
+      "patterns": [
+        "What treatments are available for leukemia?",
+        "What kind of treatments exist for leukemia?",
+        "How is leukemia treated?"
+      ],
+      "responses": [
+        "Leukemia is treated differently depending on the type of leukemia and how advanced it is. Treatment may involve chemotherapy, radiation therapy, stem cell transplant, and targeted drug therapy.",
+        "The main treatments for leukemia are chemotherapy, radiation therapy, stem cell transplant, and targeted drug therapy. Your doctor will recommend the best treatment option for you based on the type and stage of your leukemia."
+      ]
+    }
+  ]
+}
