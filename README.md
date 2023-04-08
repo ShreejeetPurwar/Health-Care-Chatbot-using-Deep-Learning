@@ -11,3 +11,5 @@ Tech Stack Used:</h2>
 Languages - Javascript, Python
 Frameworks - NLTK, Flask 
 Libraries used - Numpy, Pandas, Keras, PyTorch
+
+Link to the ppt- https://docs.google.com/presentation/d/1LUEHsXLvohZ07hYxfHktViZCID1UNOam/edit?usp=sharing&ouid=104151018757884441670&rtpof=true&sd=true
