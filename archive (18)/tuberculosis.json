@@ -1,0 +1,103 @@
+{
+  "intents": [
+    {
+      "tag": "tb-symptoms",
+      "patterns": [
+        "What are the symptoms of tuberculosis?",
+        "Can you tell me the signs of TB?",
+        "I think I might have TB. What are the symptoms?"
+      ],
+      "responses": [
+        "The symptoms of tuberculosis may include coughing that lasts for more than three weeks, chest pain, fatigue, fever, night sweats, and weight loss."
+      ]
+    },
+    {
+      "tag": "tb-diagnosis",
+      "patterns": [
+        "How is tuberculosis diagnosed?",
+        "What tests are done to diagnose TB?",
+        "Is there a specific way to confirm TB diagnosis?"
+      ],
+      "responses": [
+        "To diagnose tuberculosis, your doctor may perform a physical examination, a chest X-ray, a skin test called the Mantoux test, and sputum tests to check for the presence of TB bacteria."
+      ]
+    },
+    {
+      "tag": "tb-prevention",
+      "patterns": [
+        "How can I prevent tuberculosis?",
+        "Is there any way to avoid getting TB?",
+        "What can I do to lower my risk of TB infection?"
+      ],
+      "responses": [
+        "You can prevent tuberculosis by getting vaccinated with the BCG vaccine, avoiding close contact with people who have TB, maintaining good hygiene, and seeking medical attention if you have been exposed to someone with TB or have symptoms of TB."
+      ]
+    },
+    {
+      "tag": "tb-treatment",
+      "patterns": [
+        "How is tuberculosis treated?",
+        "What medications are used to treat TB?",
+        "Is TB curable?"
+      ],
+      "responses": [
+        "Tuberculosis is treated with a combination of antibiotics for several months. It is curable with proper treatment, but it is important to take all medications as prescribed to prevent the development of drug-resistant strains."
+      ]
+    },
+    {
+      "tag": "tb-transmission",
+      "patterns": [
+        "How is tuberculosis spread?",
+        "Can I catch TB from someone who has it?",
+        "What are the ways TB is transmitted?"
+      ],
+      "responses": [
+        "Tuberculosis is spread through the air when an infected person coughs, sneezes, or talks. It is not spread by touching objects or surfaces. Close contact with someone who has TB increases the risk of transmission."
+      ]
+    },
+    {
+      "tag": "tb-complications",
+      "patterns": [
+        "What are the complications of tuberculosis?",
+        "Can TB lead to other health problems?",
+        "How serious is TB?"
+      ],
+      "responses": [
+        "If left untreated, tuberculosis can lead to serious complications such as meningitis, bone and joint infections, and kidney problems. It can also be life-threatening for people with weakened immune systems, such as those with HIV."
+      ]
+    },
+    {
+      "tag": "tb-risk-factors",
+      "patterns": [
+        "Who is at risk of getting tuberculosis?",
+        "What are the risk factors for TB?",
+        "Am I at risk of TB?"
+      ],
+      "responses": [
+        "People who have weakened immune systems, such as those with HIV or who have undergone organ transplants, are at a higher risk of getting tuberculosis. Other risk factors include living or working in crowded or poorly ventilated environments and being in close contact with someone who has TB."
+      ]
+    },
+    {
+      "tag": "tb-testing",
+      "patterns": [
+        "How accurate are TB tests?",
+        "What are the different types of TB tests?",
+        "Do I need to get tested for TB?"
+      ],
+      "responses": [
+        "TB tests are generally accurate, but false negatives can occur. Common types of TB tests include the skin test, blood test, and sputum test. If you have been exposed to someone with TB or have symptoms of TB, your doctor may recommend getting tested."
+      ]
+    },
+    {
+      "tag": "tb-prevention",
+      "patterns": [
+        "How can I prevent tuberculosis?",
+        "What measures can I take to avoid getting TB?",
+        "Is there a vaccine for TB?"
+      ],
+      "responses": [
+        "Some ways to prevent TB include getting vaccinated (if available), maintaining good hygiene, avoiding close contact with people who have TB, and taking appropriate precautions if you work in healthcare or in other high-risk settings. There is a vaccine for TB called the BCG vaccine, but it is not widely used in the United States and its effectiveness varies."
+      ]
+    }
+  ]
+}

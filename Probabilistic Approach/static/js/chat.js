@@ -269,13 +269,13 @@ function first(){
 
         if (item.name == "terminate"){
           console.log(item.disease);
-          var txt = 'You probably have ';
+          var txt = '<h4><strong>Symptoms with probabilities</strong></h4>';
           $.each(data,function(index,item){
             if(item.name == "terminate"){
 
             }
             else{
-              txt += item.name + ' ';
+              txt += item.name + '<br>';
             }
           });
           appendMessage(BOT_NAME, BOT_IMG, "left", txt);

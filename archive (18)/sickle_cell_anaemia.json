@@ -1,0 +1,97 @@
+{
+  "intents": [
+    {
+      "tag": "WhatIsSickleCellAnaemia",
+      "patterns": [
+        "What is sickle cell anaemia?",
+        "Tell me about sickle cell anaemia",
+        "What is sickle cell anemia?",
+        "What is SCA?"
+      ],
+      "responses": [
+        "Sickle cell anaemia is an inherited blood disorder which affects the red blood cells. The red blood cells become hard, sticky and shaped like sickles which can cause problems in many parts of the body."
+      ]
+    },
+    {
+      "tag": "SymptomsOfSickleCellAnaemia",
+      "patterns": [
+        "What are the symptoms of sickle cell anaemia?",
+        "What are the signs of sickle cell anaemia?"
+      ],
+      "responses": [
+        "The symptoms of sickle cell anaemia can vary in severity, but may include fatigue, dizziness, paleness, rapid heart rate, shortness of breath, pain in the chest, arms and legs, fever, headache, and jaundice."
+      ]
+    },
+    {
+      "tag": "WhatIsSickleCellAnaemia",
+      "patterns": [
+        "What is sickle cell anemia?",
+        "Tell me about sickle cell anemia",
+        "What is the definition of sickle cell anemia?",
+        "What is sickle cell disease?",
+        "What is SCD?"
+      ],
+      "responses": [
+        "Sickle cell anemia, also known as sickle cell disease, is an inherited blood disorder characterized by red blood cells that assume an abnormal, rigid, sickle shape.",
+        "Sickle cell anemia (SCA) is an inherited disorder of the red blood cells (RBCs) caused by a mutation in the gene that helps make hemoglobin.",
+        "Sickle cell anemia is an inherited disorder that affects the oxygen-carrying hemoglobin molecule in red blood cells."
+      ]
+    },
+    {
+      "tag": "SickleCellAnaemiaSymptoms",
+      "patterns": [
+        "What are the symptoms of sickle cell anemia?",
+        "What are the signs of sickle cell anemia?",
+        "What are the common symptoms of sickle cell anemia?",
+        "What are the signs and symptoms of SCD?"
+      ],
+      "responses": [
+        "The symptoms of sickle cell anemia can vary, but may include fatigue, shortness of breath, dizziness, pain episodes, and recurrent infections.",
+        "The most common symptoms of sickle cell anemia include anemia (fatigue, paleness), pain episodes, and infections.",
+        "Some of the signs and symptoms of sickle cell anemia include anemia, frequent infections, fatigue, pain, and jaundice."
+      ]
+    },
+    {
+      "tag": "SickleCellAnaemiaTreatmentOptions",
+      "patterns": [
+        "How is sickle cell anemia treated?",
+        "What are the treatment options for sickle cell anemia?",
+        "What is the treatment for sickle cell anemia?",
+        "How can I treat SCD?"
+      ],
+      "responses": [
+        "The goal of treatment for sickle cell anemia is to manage symptoms and reduce the risk of complications. Treatment options may include pain medication, antibiotics, blood transfusions, and hydroxyurea.",
+        "The treatment goals for sickle cell anemia are to manage symptoms, prevent complications, and improve quality of life. Treatment options may include pain medications, blood transfusions, antibiotics, and hydroxyurea.",
+        "Treatment for sickle cell anemia may include pain medications, antibiotics, blood transfusions, and hydroxyurea. The goal of treatment is to manage symptoms, reduce the risk of complications, and improve quality of life."
+      ]
+    },
+    {
+      "tag": "SickleCellAnaemiaPrevention",
+      "patterns": [
+        "How can I prevent sickle cell anemia?",
+        "What can I do to prevent sickle cell anemia?",
+        "How do I lower my risk of sickle cell anemia?",
+        "What can I do to protect myself from SCD?"
+      ],
+      "responses": [
+        "There is no sure way to prevent sickle cell anemia, as it is an inherited disorder. However, there are steps that can be taken to lower the risk of developing the disorder, such as avoiding smoking and excessive drinking, and getting regular medical checkups.",
+        "The only sure way to prevent sickle cell anemia is to avoid inheriting the mutated gene. However, there are steps that can be taken to reduce the risk of developing the disorder, such as avoiding smoking and excessive drinking, and getting regular medical checkups.",
+        "There is no sure way to prevent sickle cell anemia, as it is an inherited disorder. However, there are steps that can be taken to reduce the risk of developing the disorder, such as avoiding smoking and excessive drinking, and getting regular medical checkups."
+      ]
+    },
+    {
+      "tag": "SickleCellAnaemiaComplications",
+      "patterns": [
+        "What are the complications of sickle cell anemia?",
+        "What are the risks of sickle cell anemia?",
+        "What are the possible complications of SCD?",
+        "What are the long-term effects of sickle cell anemia?"
+      ],
+      "responses": [
+        "The complications of sickle cell anemia can be serious and may include organ damage, stroke, and an increased risk of infections. Long-term effects can include anemia, fatigue, pain, and an increased risk of infection.",
+        "Complications of sickle cell anemia can include organ damage, stroke, and an increased risk of infections. Long-term effects can include anemia, fatigue, pain, and an increased risk of infection.",
+        "The complications of sickle cell anemia can be serious and may include organ damage, stroke, and an increased risk of infections. Long-term effects can include anemia, fatigue, pain, and an increased risk of infection."
+      ]
+    }
+  ]
+}

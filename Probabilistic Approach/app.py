@@ -5,7 +5,7 @@ import operator
 
 app = Flask(__name__, template_folder="template", static_folder="static")
 
-df = pd.read_csv('Diseases - Sheet1 (1).csv')
+df = pd.read_csv('Probabilistic Approach/Diseases - Sheet1 (1).csv')
 
 data = []
 common_symptoms = []
@@ -177,14 +177,21 @@ def main_loop():
     print(probabilities)
 
     if(termination_flag):
-        for key, value in probabilities.items():
-            if value >= THRESHOLD:
-                diagnosed.append(key)
+        # for key, value in probabilities.items():
+        #     if value >= THRESHOLD:
+        #         diagnosed.append(key)
+        active_symptoms.clear()
         res = [{'name' : "terminate"}]
-        for i in diagnosed:
+        i = 0
+        for k,v in probabilities.items():
+            if(i==5):
+                break
             t = {}
-            t['name'] = i
+            s = k + " " + str(round(v, 2))
+            t['name'] = s
             res.append(t)
+            i += 1
+
         return jsonify(res)
 
     if(pred_class == "NotDetected"):

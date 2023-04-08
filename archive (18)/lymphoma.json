@@ -1,0 +1,104 @@
+{
+  "intents": [
+    {
+      "tag": "WhatIsLymphoma",
+      "patterns": [
+        "What is Lymphoma?",
+        "What's Lymphoma?",
+        "What are the symptoms of lymphoma?"
+      ],
+      "responses": [
+        "Lymphoma is a type of cancer that begins in the lymphatic system. Symptoms of lymphoma include swelling of the lymph nodes, fever, night sweats, weight loss, and fatigue."
+      ]
+    },
+    {
+      "tag": "TypesOfLymphoma",
+      "patterns": [
+        "What are the types of Lymphoma?",
+        "What type of Lymphoma is there?",
+        "What are the different types of Lymphoma?"
+      ],
+      "responses": [
+        "There are two main types of lymphoma: Hodgkin's lymphoma and non-Hodgkin's lymphoma. Both types can cause similar symptoms, such as swollen lymph nodes, fatigue, fever, and night sweats."
+      ]
+    },
+    {
+      "tag": "TreatmentOfLymphoma",
+      "patterns": [
+        "How is Lymphoma treated?",
+        "What treatments are available for Lymphoma?",
+        "How do you treat Lymphoma?"
+      ],
+      "responses": [
+        "Treatment of lymphoma depends on the type of lymphoma and the stage of the disease. Common treatments include surgery, chemotherapy, radiation therapy, stem cell transplant, and immunotherapy."
+      ]
+    },
+    {
+      "tag": "CausesOfLymphoma",
+      "patterns": ["What causes Lymphoma?", "What are the causes of Lymphoma?"],
+      "responses": [
+        "The exact cause of lymphoma is not known. However, certain risk factors have been linked to the development of lymphoma, such as exposure to certain chemicals, a weakened immune system, and certain infections."
+      ]
+    },
+    {
+      "tag": "DiagnosingLymphoma",
+      "patterns": [
+        "How is Lymphoma diagnosed?",
+        "What tests are used to diagnose Lymphoma?"
+      ],
+      "responses": [
+        "Lymphoma can be diagnosed with a physical exam, blood tests, biopsy, imaging tests, and lymph node biopsy. Your doctor will use these tests to determine the type and stage of the disease."
+      ]
+    },
+    {
+      "tag": "PreventingLymphoma",
+      "patterns": [
+        "How can I prevent Lymphoma?",
+        "What can I do to prevent Lymphoma?"
+      ],
+      "responses": [
+        "There is no sure way to prevent lymphoma. However, some lifestyle changes such as avoiding exposure to certain chemicals, not smoking, and eating a healthy diet may reduce your risk of developing the disease."
+      ]
+    },
+    {
+      "tag": "SymptomsOfLymphoma",
+      "patterns": [
+        "What are the symptoms of Lymphoma?",
+        "What are the signs of Lymphoma?"
+      ],
+      "responses": [
+        "Common symptoms of lymphoma include swollen lymph nodes, fever, night sweats, weight loss, and fatigue. If you have any of these symptoms, contact your doctor for further evaluation."
+      ]
+    },
+    {
+      "tag": "LivingWithLymphoma",
+      "patterns": [
+        "How can I manage Lymphoma?",
+        "What can I do to manage Lymphoma?"
+      ],
+      "responses": [
+        "Living with lymphoma can be challenging. It is important to have a good support system and to follow your doctor's instructions. Eating a healthy diet, getting regular exercise, and staying positive can also help you manage the disease."
+      ]
+    },
+    {
+      "tag": "RiskFactorsForLymphoma",
+      "patterns": [
+        "What are the risk factors for Lymphoma?",
+        "What increases the risk of Lymphoma?"
+      ],
+      "responses": [
+        "Risk factors for lymphoma include exposure to certain chemicals, a weakened immune system, and certain infections. Being over the age of 65 and having a family history of lymphoma can also increase your risk."
+      ]
+    },
+    {
+      "tag": "PrognosisOfLymphoma",
+      "patterns": [
+        "What is the prognosis of Lymphoma?",
+        "What is the outlook for Lymphoma?"
+      ],
+      "responses": [
+        "The prognosis for lymphoma depends on the stage of the disease and the type of lymphoma. In general, the outlook is good for most types of lymphoma, and many patients can expect to be cured with proper treatment."
+      ]
+    }
+  ]
+}

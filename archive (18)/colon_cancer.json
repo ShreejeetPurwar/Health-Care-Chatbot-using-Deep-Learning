@@ -1,0 +1,222 @@
+{
+    "intents": [
+      {
+        "tag": "greeting",
+        "patterns": [
+          "Hi",
+          "Hey",
+          "Howdy",
+          "Hello"
+        ],
+        "responses": [
+          "Hello! How can I help you with colon cancer today?",
+          "Hi there! How can I help you?",
+          "Greetings! What can I do for you?"
+        ]
+      },
+      {
+        "tag": "colon_cancer_overview",
+        "patterns": [
+          "What is colon cancer?",
+          "Tell me about colon cancer",
+          "Explain colon cancer"
+        ],
+        "responses": [
+          "Colon cancer is a type of cancer that originates in the large intestine (colon). It is usually caused by an accumulation of genetic mutations in the cells of the colon. Treatment for colon cancer depends on the stage of the cancer and may include surgery, chemotherapy and/or radiation therapy.",
+          "Colon cancer is a type of cancer that starts in the large intestine (colon). It is the third most common cancer in men and women. Treatment for colon cancer can include surgery, chemotherapy and radiation therapy. The earlier the cancer is caught, the better the chances of successful treatment."
+        ]
+      },
+      {
+        "tag": "colon_cancer_symptoms",
+        "patterns": [
+          "What are the symptoms of colon cancer?",
+          "What are the signs of colon cancer?",
+          "What are the warning signs of colon cancer?"
+        ],
+        "responses": [
+          "The most common symptom of colon cancer is rectal bleeding. Other symptoms can include changes in bowel habits, such as constipation or diarrhea, abdominal pain, and unexplained weight loss. If you experience any of these symptoms, it is important to see your doctor for diagnosis.",
+          "The most common symptom of colon cancer is rectal bleeding. Other symptoms may include changes in bowel habits, such as constipation or diarrhea, abdominal pain, and unexplained weight loss. If you experience any of these symptoms, it is important to schedule an appointment with your doctor for diagnosis."
+        ]
+      },
+      {
+        "tag": "colon_cancer_prevention",
+        "patterns": [
+          "How can I prevent colon cancer?",
+          "What can I do to prevent colon cancer?",
+          "What are some ways to prevent colon cancer?"
+        ],
+        "responses": [
+          "There are several steps you can take to help prevent colon cancer. Eating a healthy diet with plenty of fruits, vegetables, and whole grains, getting regular physical activity, and avoiding tobacco products can all help reduce your risk. It is also important to get regular screening tests, such as a colonoscopy, to help detect any abnormalities in the colon.",
+          "There are several steps you can take to help prevent colon cancer. Eating a healthy diet with plenty of fruits, vegetables, and whole grains, getting regular physical activity, and avoiding tobacco products can all help reduce your risk. Regular screening tests, such as a colonoscopy, can help detect any abnormalities in the colon."
+        ]
+      },
+      {
+        "tag": "colon_cancer_treatment",
+        "patterns": [
+          "How is colon cancer treated?",
+          "What are the treatments for colon cancer?",
+          "What are the options for treating colon cancer?"
+        ],
+        "responses": [
+          "The treatment for colon cancer depends on the stage of the cancer. Treatment may include surgery to remove the cancerous tumor, chemotherapy, radiation therapy, and targeted therapy. The treatment plan will be tailored to the individual patient, so it is important to discuss your options with your doctor.",
+          "The treatment for colon cancer depends on the stage of the cancer. Treatment may include surgery to remove the cancerous tumor, chemotherapy, radiation therapy, and targeted therapy. Treatment plans will be tailored to the individual patient, so it is important to discuss your options with your doctor."
+        ]
+      },
+      {
+        "tag": "colon_cancer_risk_factors",
+        "patterns": [
+          "What are the risk factors for colon cancer?",
+          "What increases the risk of colon cancer?",
+          "What causes colon cancer?"
+        ],
+        "responses": [
+          "The exact cause of colon cancer is not known, but certain factors can increase a person’s risk. These include age, diet, family history, and a sedentary lifestyle. Smoking and alcohol consumption can also be risk factors. It is important to talk to your doctor about risk factors and what you can do to reduce your risk.",
+          "The exact cause of colon cancer is not known, but certain factors can increase a person’s risk. These include age, diet, family history, and a sedentary lifestyle. Smoking and alcohol consumption can also be risk factors. It is important to talk to your doctor about risk factors and what you can do to reduce your risk."
+        ]
+      },
+      {
+        "tag": "colon_cancer_screening",
+        "patterns": [
+          "How is colon cancer screened?",
+          "What is a colonoscopy?",
+          "What tests are used to screen for colon cancer?"
+        ],
+        "responses": [
+          "Colon cancer is usually screened with a colonoscopy. During a colonoscopy, a doctor will use a long, flexible tube with a camera to look inside the rectum and colon to check for any abnormalities or growths. A stool test may also be used to check for blood in the stool, which can be a sign of colon cancer.",
+          "Colon cancer is usually screened with a colonoscopy. During a colonoscopy, a doctor will use a long, flexible tube with a camera to look inside the rectum and colon to check for any abnormalities or growths. A stool test may also be used to check for blood in the stool, which can be a sign of colon cancer."
+        ]
+      },
+      {
+        "tag": "colon_cancer_stages",
+        "patterns": [
+          "What are the stages of colon cancer?",
+          "How is colon cancer staged?",
+          "Explain the stages of colon cancer"
+        ],
+        "responses": [
+          "Colon cancer is staged based on the size and extent of the cancer and whether it has spread to other parts of the body. Stage 0 is the earliest stage and stage IV is the most advanced. Treatment for each stage of colon cancer will vary depending on the individual case.",
+          "Colon cancer is staged based on the size and extent of the cancer and whether it has spread to other parts of the body. Stage 0 is the earliest stage and stage IV is the most advanced. Treatment for each stage of colon cancer will vary depending on the individual case."
+        ]
+      },
+      {
+        "tag": "colon_cancer_metastasis",
+        "patterns": [
+          "What is metastasis?",
+          "How does colon cancer spread?",
+          "What is the process of metastasis?"
+        ],
+        "responses": [
+          "Metastasis is the spread of cancer from the primary tumor to other parts of the body. In colon cancer, the cancerous cells can travel through the bloodstream or lymphatic system and form tumors in other organs. Metastasis can make it more difficult to treat the cancer and increases the risk of death.",
+          "Metastasis is the spread of cancer from the primary tumor to other parts of the body. In colon cancer, the cancerous cells can travel through the bloodstream or lymphatic system and form tumors in other organs. Metastasis can make it more difficult to treat the cancer and increases the risk of death."
+        ]
+      },
+      {
+        "tag": "colon_cancer_survival_rate",
+        "patterns": [
+          "What is the survival rate for colon cancer?",
+          "What is the prognosis for colon cancer?",
+          "What is the 5 year survival rate for colon cancer?"
+        ],
+        "responses": [
+          "The survival rate for colon cancer depends on the stage of the cancer and other factors. Generally, the 5-year survival rate for all stages of colon cancer is about 65%. However, the survival rate for stage IV colon cancer (the most advanced stage) is much lower, at about 10-15%.",
+          "The survival rate for colon cancer depends on the stage of the cancer and other factors. Generally, the 5-year survival rate for all stages of colon cancer is about 65%. However, the survival rate for stage IV colon cancer (the most advanced stage) is much lower, at about 10-15%."
+        ]
+      },
+      {
+        "tag": "colon_cancer_diet",
+        "patterns": [
+          "What diet is best for colon cancer?",
+          "What should I eat if I have colon cancer?",
+          "Is there a special diet for colon cancer?"
+        ],
+        "responses": [
+          "Eating a healthy diet is important for everyone, but especially for those with colon cancer. Eating plenty of fruits and vegetables, whole grains, and lean proteins can help keep your body strong and healthy while undergoing treatment. It is also important to limit your intake of processed and sugary foods.",
+          "Eating a healthy diet is important for everyone, but especially for those with colon cancer. Eating plenty of fruits and vegetables, whole grains, and lean proteins can help keep your body strong and healthy while undergoing treatment. It is also important to limit your intake of processed and sugary foods."
+        ]
+      },
+      {
+        "tag": "colon_cancer_support",
+        "patterns": [
+          "Where can I find support for colon cancer?",
+          "Are there support groups for colon cancer?",
+          "How can I find support for colon cancer?"
+        ],
+        "responses": [
+          "There are many support groups and resources available for those with colon cancer. Your doctor or local hospital may be able to provide you with information about support groups in your area. There are also many online support groups and resources available, such as the Colon Cancer Alliance and the American Cancer Society.",
+          "There are many support groups and resources available for those with colon cancer. Your doctor or local hospital may be able to provide you with information about support groups in your area. There are also many online support groups and resources available, such as the Colon Cancer Alliance and the American Cancer Society."
+        ]
+      },
+      {
+        "tag": "colon_cancer_pain",
+        "patterns": [
+          "Can colon cancer cause pain?",
+          "What kind of pain does colon cancer cause?",
+          "Does colon cancer cause abdominal pain?"
+        ],
+        "responses": [
+          "Colon cancer can cause abdominal pain, especially if the cancer has spread to other parts of the body. The pain may be dull and aching or sharp and stabbing. It may also be worse after eating or when you move. If you are experiencing any pain, it is important to discuss it with your doctor.",
+          "Colon cancer can cause abdominal pain, especially if the cancer has spread to other parts of the body. The pain may be dull and aching or sharp and stabbing. It may also be worse after eating or when you move. If you are experiencing any pain, it is important to discuss it with your doctor."
+        ]
+      },
+      {
+        "tag": "colon_cancer_fatigue",
+        "patterns": [
+          "Does colon cancer cause fatigue?",
+          "What are the effects of colon cancer on energy levels?",
+          "Can colon cancer cause extreme fatigue?"
+        ],
+        "responses": [
+          "Colon cancer can cause extreme fatigue due to the side effects of treatment and the effects of the cancer itself. Fatigue can be managed with lifestyle changes, such as getting plenty of rest, eating a balanced diet, and exercising regularly. Talk to your doctor if you are experiencing extreme fatigue.",
+          "Colon cancer can cause extreme fatigue due to the side effects of treatment and the effects of the cancer itself. Fatigue can be managed with lifestyle changes, such as getting plenty of rest, eating a balanced diet, and exercising regularly. Talk to your doctor if you are experiencing extreme fatigue."
+        ]
+      },
+      {
+        "tag": "colon_cancer_side_effects",
+        "patterns": [
+          "What are the side effects of colon cancer treatment?",
+          "What are the long-term side effects of colon cancer treatment?",
+          "What can I expect during colon cancer treatment?"
+        ],
+        "responses": [
+          "The side effects of colon cancer treatment vary depending on the type of treatment. Common side effects can include fatigue, nausea, vomiting, diarrhea, hair loss, and skin irritation. Long-term side effects may include infertility, nerve damage, and organ damage. It is important to talk to your doctor about the potential side effects of treatment.",
+          "The side effects of colon cancer treatment vary depending on the type of treatment. Common side effects can include fatigue, nausea, vomiting, diarrhea, hair loss, and skin irritation. Long-term side effects may include infertility, nerve damage, and organ damage. It is important to talk to your doctor about the potential side effects of treatment."
+        ]
+      },
+      {
+        "tag": "colon_cancer_prevention_resources",
+        "patterns": [
+          "Where can I find resources on colon cancer prevention?",
+          "Are there any colon cancer prevention websites?",
+          "What resources are available for colon cancer prevention?"
+        ],
+        "responses": [
+          "There are many resources available for those looking for information on colon cancer prevention. The American Cancer Society, the Centers for Disease Control and Prevention, and the National Cancer Institute all have websites with helpful information. Your doctor or local hospital may also be able to provide you with additional resources.",
+          "There are many resources available for those looking for information on colon cancer prevention. The American Cancer Society, the Centers for Disease Control and Prevention, and the National Cancer Institute all have websites with helpful information. Your doctor or local hospital may also be able to provide you with additional resources."
+        ]
+      },
+      {
+        "tag": "colon_cancer_clinical_trials",
+        "patterns": [
+          "Are there any clinical trials for colon cancer?",
+          "Where can I find clinical trials for colon cancer?",
+          "What clinical trials are available for colon cancer?"
+        ],
+        "responses": [
+          "There are many clinical trials available for those with colon cancer. Your doctor or local hospital may be able to provide you with information about clinical trials in your area. The National Institutes of Health also has a website with information about clinical trials for colon cancer.",
+          "There are many clinical trials available for those with colon cancer. Your doctor or local hospital may be able to provide you with information about clinical trials in your area. The National Institutes of Health also has a website with information about clinical trials for colon cancer."
+        ]
+      },
+      {
+        "tag": "colon_cancer_statistics",
+        "patterns": [
+          "What are the statistics for colon cancer?",
+          "What is the rate of colon cancer in the US?",
+          "What is the prevalence of colon cancer?"
+        ],
+        "responses": [
+          "Colon cancer is the third most common cancer in men and women in the United States. About 1 in 21 men and 1 in 23 women will develop colon cancer in their lifetime. The death rate from colon cancer has been decreasing over the past few decades, due to earlier detection and better treatments.",
+          "Colon cancer is the third most common cancer in men and women in the United States. About 1 in 21 men and 1 in 23 women will develop colon cancer in their lifetime. The death rate from colon cancer has been decreasing over the past few decades, due to earlier detection and better treatments."
+        ]
+      }
+    ]
+}

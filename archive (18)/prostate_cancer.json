@@ -1,0 +1,183 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": ["Hi", "How are you?", "Is anyone there?", "Good day", "Hey"],
+      "responses": [
+        "Hi, how can I help you?",
+        "Hello, I am here to answer your questions about prostate cancer.",
+        "Good to see you, what would you like to know about prostate cancer?"
+      ]
+    },
+    {
+      "tag": "information_about_prostate_cancer",
+      "patterns": [
+        "What is prostate cancer?",
+        "Tell me about prostate cancer",
+        "What is a prostate?",
+        "What are the risk factors for prostate cancer?"
+      ],
+      "responses": [
+        "Prostate cancer is a type of cancer that affects the prostate, a small gland in the male reproductive system. The risk factors for prostate cancer include age, ethnicity, family history, and lifestyle.",
+        "The prostate is a gland in the male reproductive system. It is located below the bladder and in front of the rectum and helps produce semen.",
+        "Prostate cancer is a type of cancer that affects the cells of the prostate. It is the most common cancer in men in the United States."
+      ]
+    },
+    {
+      "tag": "symptoms_of_prostate_cancer",
+      "patterns": [
+        "What are the symptoms of prostate cancer?",
+        "What are the signs of prostate cancer?",
+        "What should I look out for?"
+      ],
+      "responses": [
+        "The symptoms of prostate cancer can be hard to detect in the early stages, as they are often similar to other more common conditions. However, the most common symptoms of prostate cancer include difficulty urinating, weak or interrupted flow of urine, and pain or burning during urination.",
+        "Other symptoms include frequent urination, especially at night, blood in the urine, pain in the back, hips, or pelvis, and difficulty achieving or maintaining an erection."
+      ]
+    },
+    {
+      "tag": "treatment_of_prostate_cancer",
+      "patterns": [
+        "What are the treatment options for prostate cancer?",
+        "How is prostate cancer treated?",
+        "What are the side effects of prostate cancer treatment?"
+      ],
+      "responses": [
+        "The treatment options for prostate cancer depend on the stage and type of cancer. Common treatments include surgery, radiation therapy, hormone therapy, and chemotherapy. Side effects of treatment can include fatigue, nausea, hair loss, and sexual dysfunction.",
+        "In some cases, watchful waiting may be recommended. This involves monitoring the cancer closely, but not actively treating it."
+      ]
+    },
+    {
+      "tag": "prevention_of_prostate_cancer",
+      "patterns": [
+        "How can I prevent prostate cancer?",
+        "What can I do to reduce my risk of prostate cancer?",
+        "What lifestyle changes can I make to reduce my risk?"
+      ],
+      "responses": [
+        "There is no guaranteed way to prevent prostate cancer, but there are steps you can take to reduce your risk. These include maintaining a healthy weight, eating a balanced diet, exercising regularly, and avoiding smoking. Additionally, men over the age of 50 should consider talking to their doctor about the prostate specific antigen (PSA) test.",
+        "It is also important to talk to your doctor about any family history of prostate cancer, as this can increase your risk."
+      ]
+    },
+    {
+      "tag": "diagnosis_of_prostate_cancer",
+      "patterns": [
+        "How is prostate cancer diagnosed?",
+        "What tests are used to diagnose prostate cancer?",
+        "What should I expect during a prostate cancer diagnosis?"
+      ],
+      "responses": [
+        "Prostate cancer is typically diagnosed with a combination of tests, including a digital rectal exam (DRE), a prostate specific antigen (PSA) test, and a biopsy. During the DRE, your doctor will insert a gloved finger into your rectum to feel for any abnormalities in the prostate.",
+        "The PSA test measures the levels of a specific protein in the blood. If the levels are higher than normal, it may be an indication of prostate cancer. A biopsy is the most accurate way to diagnose prostate cancer, as it involves taking a small sample of tissue from the prostate and examining it under a microscope."
+      ]
+    },
+    {
+      "tag": "prostate_cancer_outlook",
+      "patterns": [
+        "What is the outlook for prostate cancer?",
+        "What is the prognosis for prostate cancer?",
+        "What is the survival rate for prostate cancer?"
+      ],
+      "responses": [
+        "The outlook for prostate cancer varies depending on the stage and type of cancer. Generally, the earlier the cancer is caught, the more favorable the outcome. According to the American Cancer Society, the five-year relative survival rate for prostate cancer is 99 percent.",
+        "It is important to talk to your doctor about your specific diagnosis, as there are many factors that can influence the outlook."
+      ]
+    },
+    {
+      "tag": "support_for_prostate_cancer",
+      "patterns": [
+        "Where can I find support for prostate cancer?",
+        "How can I connect with other prostate cancer patients?",
+        "Are there any support groups for prostate cancer?"
+      ],
+      "responses": [
+        "There are many resources available for people living with prostate cancer. Organizations like the Prostate Cancer Foundation, the Us Too organization, and the American Cancer Society offer support and resources for those affected by prostate cancer.",
+        "Additionally, many local hospitals and cancer centers offer support groups specifically geared towards people living with prostate cancer. You can also connect with other prostate cancer patients online through social media or online forums."
+      ]
+    },
+    {
+      "tag": "about_prostate_cancer_screening",
+      "patterns": [
+        "What is prostate cancer screening?",
+        "Who should get screened for prostate cancer?",
+        "What tests are used for prostate cancer screening?"
+      ],
+      "responses": [
+        "Prostate cancer screening is a process of testing to look for signs of the disease in people who don’t have any symptoms. The two most common tests used for prostate cancer screening are the digital rectal exam (DRE) and the prostate specific antigen (PSA) test.",
+        "It is recommended that men over the age of 50 talk to their doctor about the benefits and risks of prostate cancer screening. Men at higher risk, such as those with a family history of prostate cancer, should talk to their doctor about starting screening at an earlier age."
+      ]
+    },
+    {
+      "tag": "about_prostate_cancer_research",
+      "patterns": [
+        "What research is being done on prostate cancer?",
+        "Are there any new treatments for prostate cancer?",
+        "What advances have been made in prostate cancer research?"
+      ],
+      "responses": [
+        "Researchers are constantly working to improve treatments and find new ways to prevent and detect prostate cancer. Recent advances in prostate cancer research include the development of new drugs to treat the disease and the use of immunotherapy to boost the body’s own immune response to cancer.",
+        "Additionally, researchers are exploring the use of biomarkers to detect prostate cancer at an earlier stage and more accurately diagnose the disease."
+      ]
+    },
+    {
+      "tag": "about_prostate_cancer_prevention",
+      "patterns": [
+        "What is the best way to prevent prostate cancer?",
+        "Are there any lifestyle changes I can make to reduce my risk?",
+        "What foods should I eat to reduce my risk of prostate cancer?"
+      ],
+      "responses": [
+        "There is no guaranteed way to prevent prostate cancer, but there are steps you can take to reduce your risk. Maintaining a healthy weight, eating a balanced diet, exercising regularly, and avoiding smoking are all important steps. Additionally, certain foods, such as tomatoes, whole grains, fatty fish, and cruciferous vegetables, may help reduce your risk of prostate cancer.",
+        "It is also important to talk to your doctor about any family history of prostate cancer, as this can increase your risk."
+      ]
+    },
+    {
+      "tag": "about_prostate_cancer_and_diet",
+      "patterns": [
+        "What diet is best for prostate cancer?",
+        "Are there any foods I should avoid if I have prostate cancer?",
+        "What foods should I eat to help manage my prostate cancer?"
+      ],
+      "responses": [
+        "Eating a healthy diet is an important part of managing prostate cancer. Some foods, such as tomatoes, whole grains, fatty fish, and cruciferous vegetables, may help reduce your risk of prostate cancer. Additionally, eating a diet low in animal fats, processed meats, and refined carbohydrates may help reduce the risk of prostate cancer recurrence.",
+        "It is also important to talk to your doctor about any specific dietary changes you may need to make, as everyone’s needs are different."
+      ]
+    },
+    {
+      "tag": "about_prostate_cancer_and_exercise",
+      "patterns": [
+        "What exercises are best for prostate cancer?",
+        "How can exercise help with prostate cancer?",
+        "What type of exercise should I do if I have prostate cancer?"
+      ],
+      "responses": [
+        "Exercise is an important part of managing prostate cancer. Regular physical activity can help reduce the risk of prostate cancer recurrence and improve your overall health. The best exercises for prostate cancer are those that are low-impact, such as walking, swimming, and biking. It is important to talk to your doctor about the best exercises for your individual needs.",
+        "It is also important to listen to your body and take breaks when you need them. Your doctor can help you find the right balance for you."
+      ]
+    },
+    {
+      "tag": "about_prostate_cancer_and_sex",
+      "patterns": [
+        "Can I still have sex if I have prostate cancer?",
+        "How does prostate cancer affect my sex life?",
+        "What can I do to keep my sex life active with prostate cancer?"
+      ],
+      "responses": [
+        "Yes, it is possible to have a healthy and active sex life with prostate cancer. The side effects of treatment, such as fatigue and erectile dysfunction, can make it more difficult, but there are ways to manage these symptoms. Talk to your doctor about different treatment options, such as medications or lifestyle changes, that may help.",
+        "It is also important to talk to your partner about your needs and find new ways to be intimate. Communicating openly and honestly is key to maintaining a healthy sex life with prostate cancer."
+      ]
+    },
+    {
+      "tag": "about_prostate_cancer_and_treatment",
+      "patterns": [
+        "What are the treatment options for prostate cancer?",
+        "How is prostate cancer treated?",
+        "What are the side effects of prostate cancer treatment?"
+      ],
+      "responses": [
+        "The treatment options for prostate cancer depend on the stage and type of cancer. Common treatments include surgery, radiation therapy, hormone therapy, and chemotherapy. Side effects of treatment can include fatigue, nausea, hair loss, and sexual dysfunction.",
+        "In some cases, watchful waiting may be recommended. This involves monitoring the cancer closely, but not actively treating it."
+      ]
+    }
+  ]
+}

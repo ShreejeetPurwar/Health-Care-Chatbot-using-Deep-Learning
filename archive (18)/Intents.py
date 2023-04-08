@@ -6,10 +6,15 @@ import torch.nn as nn
 import torch.optim as optim
 import json
 from sklearn.model_selection import train_test_split
-
-disease_name = 'arthritis'
+import nltk.data
 
 # nltk.download('punkt')
+
+tokenizer = nltk.data.load('nltk:tokenizers/punkt/english.pickle')
+
+disease_name = r'/Users/tejasmadhukar/Downloads/ISM/archive (18)/tuberculosis'
+
+nltk.download('punkt')
 
 stemmer = PorterStemmer()
 

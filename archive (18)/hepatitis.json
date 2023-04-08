@@ -1,7 +1,7 @@
 {
    "intents": [
      {
-       "name": "Hepatitis A",
+       "tag": "Hepatitis A",
        "patterns": [
          "What is hepatitis A?",
          "How is hepatitis A spread?",
@@ -22,7 +22,7 @@
        ]
      },
      {
-       "name": "Hepatitis B",
+       "tag": "Hepatitis B",
        "patterns": [
          "What is hepatitis B?",
          "How is hepatitis B spread?",
@@ -43,7 +43,7 @@
        ]
      },
      {
-       "name": "Hepatitis C",
+       "tag": "Hepatitis C",
        "patterns": [
          "What is hepatitis C?",
          "How is hepatitis C spread?",
